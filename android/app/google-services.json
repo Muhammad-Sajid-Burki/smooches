@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21122586650",
+    "project_id": "smooches-e5102",
+    "storage_bucket": "smooches-e5102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21122586650:android:42c6faaf10dab283d1d9a3",
+        "android_client_info": {
+          "package_name": "com.stss.smooches"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21122586650-ihv0h09p0q687ha7t2id6v7k17dof5q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCezXJi0uScgmRkHYdrTvuecXUlhh86_GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21122586650-ihv0h09p0q687ha7t2id6v7k17dof5q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
